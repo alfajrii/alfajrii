@@ -47,11 +47,11 @@
 ### Universitas Bina Sarana Informatika
 
 **Information Systems**  
-<p>September 2022 – August 2026</p>
-<br>GPA : 3.82/4.00</br>
-<br>Relevant Coursework: Database, Statistics, ERP, Data Warehouse, Decision Support Systems, Accounting, Basic
-Python Programming, Leadership, Teamwork, Communication skills.</br>
-
+<p>
+September 2022 – August 2026<br>
+GPA: 3.82/4.00<br>
+Relevant Coursework: Database, Statistics, ERP, Data Warehouse, Decision Support Systems, Accounting, Basic Python Programming, Leadership, Teamwork, Communication Skills.
+</p>
 ---
 
 ## Social
