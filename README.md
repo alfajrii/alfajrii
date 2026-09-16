@@ -48,9 +48,9 @@
 
 **Information Systems**  
 <p>September 2022 – August 2026</p>
-<p>GPA : 3.82/4.00</p>
-<p>Relevant Coursework: Database, Statistics, ERP, Data Warehouse, Decision Support Systems, Accounting, Basic
-Python Programming, Leadership, Teamwork, Communication skills.</p>
+<br>GPA : 3.82/4.00</br>
+<br>Relevant Coursework: Database, Statistics, ERP, Data Warehouse, Decision Support Systems, Accounting, Basic
+Python Programming, Leadership, Teamwork, Communication skills.</br>
 
 ---
 
@@ -64,11 +64,11 @@ Python Programming, Leadership, Teamwork, Communication skills.</p>
 
 <p>
   E-mail    : jrialfajri10@gmail.com 
-</p>
-<p>
+<br>
   <a href="https://wa.me/628138055093">
   whatsapp  : +62 81389055093
   </a>
+</br>
 </p>
 
 ---
