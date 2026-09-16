@@ -65,7 +65,7 @@ Relevant Coursework: Database, Statistics, ERP, Data Warehouse, Decision Support
 <p>
   E-mail    : jrialfajri10@gmail.com 
 <br>
-  <a href="https://wa.me/628138055093">
+  <a href="https://wa.me/6281389055093">
   whatsapp  : +62 81389055093
   </a>
 </br>
